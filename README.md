@@ -1,4 +1,4 @@
-# neocalc
+# NEOCALC
 
 ### Install
 
